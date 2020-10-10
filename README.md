@@ -3,9 +3,7 @@ A small PHP script to host your own URL shortener including a pin code, so that 
 
 ### Special thanks to
 - [Bas Milius](https://github.com/basmilius) - Latte UI Framework
-- [Julian van Schijndel](https://github.com/Julianvschijndel) - Created the back-end.
-
-![Screenshot](https://scrn.jansen.work/j4ns3n_15P48_L154815.jpg)
+- [Julian van Schijndel](https://github.com/Julianvschijndel) - Helping with the back-end.
 
 ### Donate
 If you love this project and you appreciate my work.. You might consider buying me a coffee. ☕️
