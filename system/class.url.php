@@ -1,13 +1,4 @@
 <?php
-/*
- * Copyright (c) 2019 - 2020 Julian van Schijndel
- * https://juliandev.nl ~ <info@juliandev.nl>
- * https://github.com/Julianvschijndel
- * --------------------------------------------------
- * Url shortener.
- * --------------------------------------------
- * A PHP script to short up URL.
-*/
 
 /*
  * Functions of this off the URL class.
