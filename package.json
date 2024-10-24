@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "@bybas/latte-ui": "^1.8.3",
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   }
 }
